@@ -1,7 +1,7 @@
 {
   "name": "stream-hint",
   "description": "detect type of a stream based on match on first dataevent ",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "url": "git://github.com/soldair/node-stream-hint.git"
   },
